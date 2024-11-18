@@ -21,7 +21,7 @@ const TodoApp = () => {
         }
     };
 
-    console.log(tasks, "All tasks");
+    console.log(tasks, "All tassssks");
   
     const handleDeleteTask = (x) => {
         console.log(x, "user item to be delete");
